@@ -1,0 +1,19 @@
+2026-06-10 15:12:21,960 - INFO - User viewed ticket list.
+2026-06-10 15:12:21,960 - INFO - User viewed ticket list.
+2026-06-10 15:12:21,961 - INFO - User viewed ticket list.
+2026-06-10 15:14:06,856 - INFO - User viewed ticket list.
+2026-06-10 15:40:48,346 - INFO - User viewed ticket list.
+2026-06-10 15:41:13,753 - INFO - User viewed ticket list.
+2026-06-10 15:41:23,159 - INFO - User viewed ticket list.
+2026-06-10 15:41:28,544 - WARNING - 2026-06-04 10:13:05,222 - WARNING - Duplicate ticket ID entered: T01
+2026-06-10 15:44:19,758 - INFO - Booked new ticket T04 for NGuyen Van Bon
+2026-06-10 15:44:20,940 - INFO - User viewed ticket list.
+2026-06-10 15:56:42,742 - INFO - User viewed ticket list.
+2026-06-10 15:57:11,529 - INFO - User viewed ticket list.
+2026-06-10 15:57:26,843 - WARNING - 2026-06-04 10:14:30,333 - WARNING - Invalid seat input while booking ticket
+2026-06-10 15:57:41,006 - INFO - Seat changed for ticket T03 to D-10
+2026-06-10 15:57:43,325 - INFO - User viewed ticket list.
+2026-06-10 16:03:07,444 - INFO - User viewed ticket list.
+2026-06-10 16:03:26,741 - INFO - User viewed ticket list.
+2026-06-10 16:03:31,396 - WARNING - Ticket T01 has been cancelled.
+2026-06-10 16:04:04,918 - INFO - User viewed ticket list.
